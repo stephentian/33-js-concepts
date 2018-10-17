@@ -28,16 +28,34 @@
 - **[值类型和引用类型](#值类型和引用类型)**
 - **[隐式, 显式, 名义和鸭子类型](#隐式-显式-名义和鸭子类型)**
 - **[==, ===, typeof 的比较](#vs-vs-typeof)**
+- **[this, call, apply 和 bind](this-call-apply-和-bind)**
 - **[函数作用域, 块级作用域和词法作用域](#函数作用域-块级作用域和词法作用域)**
+- **[闭包](#闭包)**
+- **[递归](#递归)**
+- **[算法](#算法)**
+- **[map, reduce, filter](#map-reduce-filter)**
 - **[表达式和语句](#表达式和语句)**
 - **[变量提升](#变量提升)**
+- **[高阶函数](#高阶函数)**
 - **[立即执行函数, 模块化, 命名空间](#立即执行函数-模块化-命名空间)**
+- **[数据结构](#数据结构)**
 - **[消息队列和事件循环](#消息队列和事件循环)**
 - **[setTimeout, setInterval 和 requestAnimationFrame](#settimeout-setinterval-和-requestanimationframe)**
+- **[继承, 多态和代码复用](#继承-多态和代码复用)**
+- **[按位操作符, 类数组对象和类型化数组](#按位操作符-类数组对象和类型化数组)**
+- **[DOM 树和渲染过程](#DOM-树和渲染过程)**
+- **[new 与构造函数, instanceof 与实例](#new-与构造函数-instanceof-与实例)**
+- **[原型继承与原型链](#原型继承与原型链)**
+- **[Object.create 和 Object.assign](#objectcreate-和-objectassign)**
+- **[工厂函数和类](#工厂函数和类)**
+- **[设计模式](#设计模式)**
+- **[Memoization](#memoization)**
+- **[纯函数, 函数副作用和状态变化](#纯函数-函数副作用和状态变化)**
 - **[耗性能操作和时间复杂度](#耗性能操作和时间复杂度)**
 - **[JavaScript 引擎](#javascript引擎)**
-- **[二进制, 十六进制, 十进制, 科学记数法](#二进制-十六进制-十进制-科学记数法)**
-- **[按位操作符, 类数组对象和类型化数组](#按位操作符-类数组对象和类型化数组)**
+- **[二进制, 十进制, 十六进制, 科学记数法](#二进制-十六进制-十进制-科学记数法)**
+- **[偏函数, 柯里化, Compose 和 Pipe](#偏函数-柯里化-compose-和-pipe)**
+- **[代码整洁之道](#代码整洁之道)**
 
 ---
 
@@ -141,6 +159,16 @@
 
 ---
 
+## this, call, apply 和 bind
+
+### 文章
+
+### 视频
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
 ## 函数作用域, 块级作用域和词法作用域
 
 ### 文章
@@ -152,6 +180,26 @@
 - [深入理解闭包之前置知识 → 作用域与词法作用域 —— 掘金](https://juejin.im/post/5afb0ae56fb9a07aa2138425)
 - [What is lexical scope? —— stackoverflow](https://stackoverflow.com/questions/1047454/what-is-lexical-scope)
 - [You Don't Know JS: Scope & Closures —— Kyle Simpson](https://github.com/fishenal/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch2.md)
+
+### 视频
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
+## 闭包
+
+### 文章
+
+### 视频
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
+## map, reduce, filter
+
+### 文章
 
 ### 视频
 
@@ -190,7 +238,27 @@
 
 ---
 
+## 高阶函数
+
+### 文章
+
+### 视频
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
 ## 立即执行函数, 模块化, 命名空间
+
+### 文章
+
+### 视频
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
+## 数据结构
 
 ### 文章
 
@@ -213,6 +281,20 @@
 ## setTimeout, setInterval 和 requestAnimationFrame
 
 ### 文章
+
+### 视频
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
+## 继承, 多态和代码复用
+
+### 文章
+
+- [代码复用模式 —— github](https://github.com/TooBug/javascript.patterns/blob/master/chapter6.markdown)
+- [深入理解 JavaScript：代码复用模式(推荐篇) —— 汤姆大叔](http://www.cnblogs.com/TomXu/archive/2012/04/24/2438050.html)
+- [深入理解 JavaScript：代码复用模式(避免篇) —— 汤姆大叔](https://www.cnblogs.com/TomXu/archive/2012/04/23/2438005.html)
 
 ### 视频
 
@@ -265,7 +347,7 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## DOM 树和渲染过程
 
 ### 文章
 
@@ -275,7 +357,7 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## new, 构造函数, instanceof 和实例
 
 ### 文章
 
@@ -285,7 +367,7 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## 原型继承与原型链
 
 ### 文章
 
@@ -295,7 +377,7 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## Object.create 和 Object.assign
 
 ### 文章
 
@@ -305,9 +387,11 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## 工厂函数和类
 
 ### 文章
+
+- [类 —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Classes)
 
 ### 视频
 
@@ -315,9 +399,11 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## 设计模式
 
 ### 文章
+
+- [JavaScript Patterns 中译本 —— github](https://github.com/lxj/javascript.patterns)
 
 ### 视频
 
@@ -325,9 +411,14 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## Memoization
 
 ### 文章
+
+- [JavaScript Memoization —— 司徒正美](https://www.cnblogs.com/rubylouvre/archive/2009/08/06/1540678.html)
+- [memoization 提升递归效率 —— 博客园](https://www.cnblogs.com/yingshuizy/p/4517102.html)
+- [如何提升 JavaScript 的递归效率 —— 51CTO](http://developer.51cto.com/art/201010/231513.htm)
+- [JavaScript 高级技巧 Memoization —— SegmentFaut](https://segmentfault.com/a/1190000016703106)
 
 ### 视频
 
@@ -335,9 +426,15 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## 纯函数, 函数副作用和状态变化
 
 ### 文章
+
+- [纯函数(Pure Function) —— React.js 小书](http://huziketang.mangojuice.top/books/react/lesson32)
+- [JavaScript Functional Programming：纯函数 —— 宁皓网](https://ninghao.net/blog/4634)
+- [js 函数的副作用分析 —— 脚本之家](https://www.jb51.net/article/28079.htm)
+- [如何使用纯函数式 JavaScript 处理脏副作用 —— 掘金](https://juejin.im/post/5b82bdb351882542e241ed32?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)
+- [原生 JavaScript 实现 state 状态管理系统 —— 博客园](http://www.cnblogs.com/zhangycun/p/9403335.html)
 
 ### 视频
 
@@ -345,19 +442,14 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## 偏函数, 柯里化, Compose 和 Pipe
 
-### 文章
+### 文章.
 
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
+- [JavaScript 专题之偏函数 —— SegmentFault](https://segmentfault.com/a/1190000010686144)
+- [柯里化和偏函数有什么区别？ —— SegmentFault](https://segmentfault.com/q/1010000008626058)
+- [Javascript 偏函数与柯里化 —— CSDN](https://blog.csdn.net/neweastsun/article/details/75947785?utm_source=blogxgwz0)
+- [JavaScript 函数式编程之函数组合函数 compose 和 pipe 的实现 —— SegmentFault](https://segmentfault.com/a/1190000015102804)
 
 ### 视频
 
@@ -365,221 +457,14 @@
 
 ---
 
-## ==, ===, typeof 的比较
+## 代码整洁之道
 
 ### 文章
 
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
-
-**[:arrow_up: back_to_up](#目录)**
-
----
-
-## ==, ===, typeof 的比较
-
-### 文章
-
-### 视频
+- [[译] JavaScript 代码整洁之道 —— 边城](https://www.zcfy.cc/article/clean-code-javascript-readme-md-at-master-ryanmcdermott-clean-code-javascript-github-2273.html)
+- [重构 - 代码整洁之道 —— 掘金](https://juejin.im/post/5a5b2a5c6fb9a01cbc6e59f9)
+- [让你的代码更简短，更整洁，更易读的 ES6 小技巧 —— 掘金](https://juejin.im/post/5a7d71836fb9a063435ecf51)
+- [Web 前端：11 个让你代码整洁的原则 —— 伯乐在线](#http://blog.jobbole.com/23617/)
 
 **[:arrow_up: back_to_up](#目录)**
 
