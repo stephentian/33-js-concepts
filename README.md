@@ -12,12 +12,16 @@
 这个项目是为了帮助开发者掌握 JavaScript 概念而创立的。它不是必备，但在未来学习（JavaScript）中，可以作为一篇指南。
 
 > 本篇文章是参照 @leonardomso 创立，英文版项目地址在[这里](https://github.com/leonardomso/33-js-concepts)。
-
 > 由于原版资源都要翻墙，所以本人创立一个中文版，附上关于这些概念在国内的一些文章和视频。
-
-> 文章的排序我也优化了一下，前面的文章是介绍概念，后面的文章是深入解读。
-
 > 若有觉得更好的文章或者视频，可以贡献出来，觉得有误的，请联系我删除。
+
+## 更新
+
+若有觉得更好的文章或者视频，可以贡献出来，觉得有误的，请联系我删除。
+
+- 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
+- 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter(高阶函数)"
+- 增加 "promise" 概念
 
 ---
 
@@ -33,10 +37,10 @@
 - **[闭包](#闭包)**
 - **[递归](#递归)**
 - **[算法](#算法)**
-- **[map, reduce, filter](#map-reduce-filter)**
+- **[map, reduce, filter 等高阶函数](#map-reduce-filter-等高阶函数)**
 - **[表达式和语句](#表达式和语句)**
 - **[变量提升](#变量提升)**
-- **[高阶函数](#高阶函数)**
+- **[Promise](#promise)**
 - **[立即执行函数, 模块化, 命名空间](#立即执行函数-模块化-命名空间)**
 - **[数据结构](#数据结构)**
 - **[消息队列和事件循环](#消息队列和事件循环)**
@@ -64,12 +68,6 @@
 ### 文章
 
 - :book: [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-- :book: [并发模型与事件循环 —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
-- :book: [JavaScript 运行机制详解：再谈 Event Loop —— 阮一峰](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
-- :book: [深入理解 JavaScript 事件循环 —— 博客园](https://www.cnblogs.com/dong-xu/p/7000163.html)
-- :book: [深入浅出 Javascript 事件循环机制 —— 知乎](https://zhuanlan.zhihu.com/p/26229293)
-- :book: [JS 事件循环机制（event loop）之宏任务、微任务 —— SegmentFault](https://segmentfault.com/a/1190000014940904#articleHeader7)
-- :book: [JavaScript：彻底理解同步、异步和事件循环 —— SegmentFault](https://segmentfault.com/a/1190000004322358)
 - :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42#comment)
 - :book: [[译] 理解 JavaScript 中的执行上下文和执行栈 —— 掘金](https://juejin.im/post/5ba32171f265da0ab719a6d7)
 - :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -215,6 +213,7 @@
 - :book: [闭包 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143449934543461c9d5dfeeb848f5b72bd012e1113d15000)
 - :book: [一次性搞懂 JavaScript 闭包 —— 简书](https://www.jianshu.com/p/796e903754f1)
 - :book: [JavaScript 闭包 —— SegmentFault](https://segmentfault.com/a/1190000006875662)
+- :book: [js 匿名自执行函数中闭包的高级使用 —— 掘金](https://juejin.im/entry/5800eb7da22b9d005b36156e)
 - :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6#comment)
 
 ### 视频
@@ -227,7 +226,7 @@
 
 ---
 
-## map, reduce, filter
+## map, reduce, filter 等高阶函数
 
 ### 文章
 
@@ -267,11 +266,22 @@
 
 ---
 
-## 高阶函数
+## Promise
 
 ### 文章
 
+- :book: [使用 promises —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)
+- :book: [Promise —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- :book: [Promie — 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000)
+- :book: [JavaScript Promise：去而复返 —— 司徒正美](https://www.cnblogs.com/rubylouvre/p/3495286.html)
+- :book: [(上面的原文)JavaScript Promise：简介 —— Web Fundamentals](https://developers.google.com/web/fundamentals/primers/promises#_1)
+- :book: [1 分钟读完《10 分钟学会 JavaScript 的 Async/Await》 —— justjavac](https://segmentfault.com/a/1190000011813934)
+- :book: [JavaScript Promise 迷你书（中文版）](https://juejin.im/entry/56499ae160b2d1404c4f8834)
+- :book: [JavaScript 进阶之路——认识和使用 Promise，重构你的 Js 代码 —— 博客园](https://www.cnblogs.com/yunfeifei/p/4453690.html)
+
 ### 视频
+
+- :tv: [Promise 入门 —— 慕课网](https://www.imooc.com/learn/949)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -281,7 +291,9 @@
 
 ### 文章
 
-### 视频
+- :book: [javascript 模块化编程-详解立即执行函数表达式 —— 简书](https://www.jianshu.com/p/4dbf4a4c8ebb)
+- :book: [Javascript 的匿名函数与自执行 —— 掘金](https://juejin.im/entry/57fee360a22b9d005b1d9ae3)
+- :book: [前端模块化——技术选型 —— SegmentFault](https://segmentfault.com/a/1190000006966358)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -301,7 +313,12 @@
 
 ### 文章
 
-### 视频
+- :book: [并发模型与事件循环 —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
+- :book: [JavaScript 运行机制详解：再谈 Event Loop —— 阮一峰](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+- :book: [深入理解 JavaScript 事件循环 —— 博客园](https://www.cnblogs.com/dong-xu/p/7000163.html)
+- :book: [深入浅出 Javascript 事件循环机制 —— 知乎](https://zhuanlan.zhihu.com/p/26229293)
+- :book: [JS 事件循环机制（event loop）之宏任务、微任务 —— SegmentFault](https://segmentfault.com/a/1190000014940904#articleHeader7)
+- :book: [JavaScript：彻底理解同步、异步和事件循环 —— SegmentFault](https://segmentfault.com/a/1190000004322358)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -465,8 +482,6 @@
 - :book: [如何使用纯函数式 JavaScript 处理脏副作用 —— 掘金](https://juejin.im/post/5b82bdb351882542e241ed32?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)
 - :book: [原生 JavaScript 实现 state 状态管理系统 —— 博客园](http://www.cnblogs.com/zhangycun/p/9403335.html)
 
-### 视频
-
 **[:arrow_up: back_to_up](#目录)**
 
 ---
@@ -485,8 +500,6 @@
 - :book: [实现 compose 的五种思路 —— SegmentFault](https://segmentfault.com/a/1190000011447164)
 - :book: [JavaScript 函数式编程之函数组合函数 compose 和 pipe 的实现 —— SegmentFault](https://segmentfault.com/a/1190000015102804)
 - :book: [JavaScript 轻量级函数式编程-第 4 章:组合函数 ——掘金](https://juejin.im/post/59a62f3d6fb9a0248363fd9d#comment)
-
-### 视频
 
 **[:arrow_up: back_to_up](#目录)**
 
