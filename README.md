@@ -20,7 +20,7 @@
 若有觉得更好的文章或者视频，可以贡献出来，觉得有误的，请联系我删除。
 
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
-- 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter(高阶函数)"
+- 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念
 
 ---
@@ -35,13 +35,13 @@
 - **[this, call, apply 和 bind](#this-call-apply-和-bind)**
 - **[函数作用域, 块级作用域和词法作用域](#函数作用域-块级作用域和词法作用域)**
 - **[闭包](#闭包)**
-- **[递归](#递归)**
-- **[算法](#算法)**
 - **[map, reduce, filter 等高阶函数](#map-reduce-filter-等高阶函数)**
 - **[表达式和语句](#表达式和语句)**
 - **[变量提升](#变量提升)**
 - **[Promise](#promise)**
 - **[立即执行函数, 模块化, 命名空间](#立即执行函数-模块化-命名空间)**
+- **[递归](#递归)**
+- **[算法](#算法)**
 - **[数据结构](#数据结构)**
 - **[消息队列和事件循环](#消息队列和事件循环)**
 - **[setTimeout, setInterval 和 requestAnimationFrame](#settimeout-setinterval-和-requestanimationframe)**
@@ -141,7 +141,7 @@
 ### 视频
 
 - :tv: [javascript 隐式转换 —— 慕课网](https://www.imooc.com/video/5675)
-- :tv: [Javascript 基础加强-类型转换 —— 黑马程序员](http://www.le.com/ptv/vplay/27767009.html?ch=baidu_s)
+- :tv: [Javascript 基础加强-类型转换 —— 黑马程序员](http://www.le.com/ptv/vplay/27767009.html)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -219,8 +219,8 @@
 ### 视频
 
 - :tv: [JavaScript 闭包和闭包面试题 —— 爱奇艺](http://www.iqiyi.com/w_19rr1amael.html)
-- :tv: [js 面向对象闭包数组 11.闭包 —— 乐视](http://www.le.com/ptv/vplay/27478410.html?ch=baidu_s)
-- :tv: [白贺翔\_函数(闭包) —— 乐视](http://www.le.com/ptv/vplay/30505852.html?ch=baidu_s)
+- :tv: [js 面向对象闭包数组 11.闭包 —— 乐视](http://www.le.com/ptv/vplay/27478410.html)
+- :tv: [白贺翔\_函数(闭包) —— 乐视](http://www.le.com/ptv/vplay/30505852.html)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -294,6 +294,42 @@
 - :book: [javascript 模块化编程-详解立即执行函数表达式 —— 简书](https://www.jianshu.com/p/4dbf4a4c8ebb)
 - :book: [Javascript 的匿名函数与自执行 —— 掘金](https://juejin.im/entry/57fee360a22b9d005b1d9ae3)
 - :book: [前端模块化——技术选型 —— SegmentFault](https://segmentfault.com/a/1190000006966358)
+- :book: [谈谈 Js 前端模块化规范 —— SegmentFault](https://segmentfault.com/a/1190000015991869#articleHeader8)
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
+## 递归
+
+### 文章
+
+- :book: [求解释 js 递归 —— SegmentFault](https://segmentfault.com/q/1010000003942347)
+- :book: [JavaScript 中的递归 —— 掘金](https://juejin.im/post/5948c0d8fe88c2006a939e2a)
+- :book: [递归（上）－《JavaScript 轻量级函数式编程》 —— 掘金](https://juejin.im/post/59c1d91d6fb9a00a53275f79)
+- :book: [递归（下）－《JavaScript 轻量级函数式编程》 —— 掘金](https://juejin.im/post/59c87fb46fb9a00a437b1a2e)
+- :book: [尾调用和尾递归 —— 掘金](https://juejin.im/post/5acdd7486fb9a028ca53547c)
+- :book: [几个经典递归问题用 js 实现 —— CSDN](https://blog.csdn.net/qianqianstd/article/details/75807462)
+- :book: [递归函数的几个例子 —— CSDN](https://blog.csdn.net/x_i_xw/article/details/72026868)
+
+**[:arrow_up: back_to_up](#目录)**
+
+---
+
+## 算法
+
+### 文章
+
+- :book: [十大经典排序算法总结（JavaScript 描述） —— 掘金](https://juejin.im/post/57dcd394a22b9d00610c5ec8)
+- :book: [在 JavaScript 中学习数据结构与算法 —— 掘金](https://juejin.im/post/594dfe795188250d725a220a#comment)
+- :book: [JS 中可能用得到的全部的排序算法 —— 掘金](https://juejin.im/post/58c9d5fb1b69e6006b686bce)
+- :book: [JS 家的排序算法 —— 简书](https://www.jianshu.com/p/1b4068ccd505)
+- :book: [前端常见算法的 JS 实现 —— SegmentFault](https://segmentfault.com/a/1190000008593715)
+- :book: [前端面试中的常见的算法问题 ——蒲小花的博客](https://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
+
+### 视频
+
+- :tv: [Javascript 实现二叉树算法 —— 慕课网](https://www.imooc.com/learn/888)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -303,7 +339,14 @@
 
 ### 文章
 
+- :book: [来我们浅谈一下 js 的数据结构 —— 简书](https://www.jianshu.com/p/5e0e8d183102)
+- :book: [JavaScript 中的算法与数据结构 —— 简书](https://www.jianshu.com/nb/16835496)
+- :book: [学 JS 必看-JavaScript 数据结构深度剖析 —— 大道至简的博客](http://blog.sina.com.cn/s/blog_7b9c5e4101017mjt.html)
+- :book: [js 中基础数据结构数组去重问题 —— 掘金](https://juejin.im/entry/586effe0da2f600053d85a9a)
+
 ### 视频
+
+- [JavaScript 数据结构-运算符 —— 乐视](http://www.le.com/ptv/vplay/27606964.html)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -328,7 +371,17 @@
 
 ### 文章
 
+- :book: [Window setTimeout() 方法 —— 菜鸟教程](http://www.runoob.com/jsref/met-win-settimeout.html)
+- :book: [Window setInterval() 方法 —— 菜鸟教程](http://www.runoob.com/jsref/met-win-setinterval.html)
+- :book: [关于 setTimeout —— 掘金](https://juejin.im/post/5aa4c47af265da239866e236)
+- :book: [你不知道的 Javascript：有趣的 setTimeout —— 掘金](https://juejin.im/post/5a77f8ce5188257a6d635d76)
+- :book: [setTimeout() 和 setInterval() 本质区别在哪里？ —— SegmentFault](https://segmentfault.com/q/1010000005989491)
+- book: []()
+
 ### 视频
+
+- :tv: [setTimeout 和 setInterval —— 优酷](http://v.youku.com/v_show/id_XNTA4OTQ0NzA0.html)
+-
 
 **[:arrow_up: back_to_up](#目录)**
 
