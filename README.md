@@ -27,8 +27,8 @@
 - **[原始类型](#原始类型)**
 - **[值类型和引用类型](#值类型和引用类型)**
 - **[隐式, 显式, 名义和鸭子类型](#隐式-显式-名义和鸭子类型)**
-- **[==, ===, typeof 的比较](#vs-vs-typeof)**
-- **[this, call, apply 和 bind](this-call-apply-和-bind)**
+- **[== 与 ===, typeof 与 instanceof](#-vs--typeof-vs-instanceof)**
+- **[this, call, apply 和 bind](#this-call-apply-和-bind)**
 - **[函数作用域, 块级作用域和词法作用域](#函数作用域-块级作用域和词法作用域)**
 - **[闭包](#闭包)**
 - **[递归](#递归)**
@@ -100,8 +100,8 @@
 
 ### 视频
 
-- [javascript 六种数据类型 —— 慕课网](https://www.imooc.com/video/5674)
-- [javascript 视频教程(数据类型) —— PHP 中文网](http://www.php.cn/code/5808.html)
+- :tv: [javascript 六种数据类型 —— 慕课网](https://www.imooc.com/video/5674)
+- :tv: [javascript 视频教程(数据类型) —— PHP 中文网](http://www.php.cn/code/5808.html)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -142,18 +142,25 @@
 
 ### 视频
 
-- [javascript 隐式转换 —— 慕课网](https://www.imooc.com/video/5675)
-- [Javascript 基础加强-类型转换 —— 黑马程序员](http://www.le.com/ptv/vplay/27767009.html?ch=baidu_s)
+- :tv: [javascript 隐式转换 —— 慕课网](https://www.imooc.com/video/5675)
+- :tv: [Javascript 基础加强-类型转换 —— 黑马程序员](http://www.le.com/ptv/vplay/27767009.html?ch=baidu_s)
 
 **[:arrow_up: back_to_up](#目录)**
 
 ---
 
-## == vs === vs typeof
+<div id="-vs--typeof-vs-instanceof"></div>
+## == vs ===, typeof vs instanceof
 
 ### 文章
 
-### 视频
+- :book: [JavaScript 中的相等性判断 —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+- :book: [js 中 == 和 === 的区别 —— 掘金](https://juejin.im/entry/584918612f301e005716add6)
+- :book: [== vs === in Javascript —— CSDN](https://blog.csdn.net/w97531/article/details/82255225)
+- :book: [深入理解 javascript 之 typeof 和 instanceof —— CSDN](https://blog.csdn.net/mevicky/article/details/50353881)
+- :book: [一张图看懂 Function 和 Object 的关系及简述 instanceof 运算符 —— 掘金](https://juejin.im/post/58358606570c35005e4142bd)
+- :book: [浅谈 instanceof 和 typeof 的实现原理 —— 掘金](https://juejin.im/post/5b0b9b9051882515773ae714)
+- :book: [js 中 typeof 与 instanceof 用法 —— 博客园](https://www.cnblogs.com/double405/p/5326311.html)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -163,7 +170,20 @@
 
 ### 文章
 
+- :book: [学会 JS 的 this 这一篇就够了，根本不用记 —— ]()
+- :book: [[译] this（他喵的）到底是什么 — 理解 JavaScript 中的 this、call、apply 和 bind —— 掘金](https://juejin.im/post/5b9f176b6fb9a05d3827d03f)
+- :book: [this、apply、call、bind —— 掘金](https://juejin.im/post/59bfe84351882531b730bac2)
+- :book: [使用 call、apply 和 bind 解决 js 中烦人的 this，事件绑定时的 this 和传参问题 —— 博客园](https://www.cnblogs.com/tingyu-blog/p/6212392.html)
+- :book: [call、apply 和 bind 的原生实现 —— github](https://github.com/Abiel1024/blog/issues/16)
+- :book: [详解 JS 中的 this、apply、call、bind(经典面试题) —— 脚本之家](https://www.jb51.net/article/124024.htm)
+
 ### 视频
+
+- :tv: [JavaScript 关于 this 关键字解释 —— 爱奇艺](https://www.iqiyi.com/w_19rr1augsd.html)
+- :tv: [JS 关于作用域闭包和 this 的综合面试题 —— 百度视频](http://baidu.iqiyi.com/watch/845335533383874688.html?page=videoMultiNeed)
+- :tv: [js 面向对象闭包数组 12.函数中的 this —— 乐视视频](http://www.le.com/ptv/vplay/27478413.html?ch=baidu_s)
+- :tv: [1.3.10-this 指向及 this 应用 —— 乐视视频](http://www.le.com/ptv/vplay/24835911.html?ch=baidu_s)
+- :tv: [珠峰培训 JavaScript 开发课程：关于 this 关键字、闭包作用域 —— 网易云课堂](https://study.163.com/course/introduction/590005.htm)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -181,8 +201,6 @@
 - :book: [What is lexical scope? —— stackoverflow](https://stackoverflow.com/questions/1047454/what-is-lexical-scope)
 - :book: [You Don't Know JS: Scope & Closures —— Kyle Simpson](https://github.com/fishenal/You-Dont-Know-JS/blob/master/scope%20&%20closures/ch2.md)
 
-### 视频
-
 **[:arrow_up: back_to_up](#目录)**
 
 ---
@@ -191,7 +209,19 @@
 
 ### 文章
 
+- :book: [闭包 —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+- :book: [ECMAScript 闭包（closure）—— w3school](http://www.w3school.com.cn/js/pro_js_functions_closures.asp)
+- :book: [学习 Javascript 闭包（Closure） —— 阮一峰](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+- :book: [闭包 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143449934543461c9d5dfeeb848f5b72bd012e1113d15000)
+- :book: [一次性搞懂 JavaScript 闭包 —— 简书](https://www.jianshu.com/p/796e903754f1)
+- :book: [JavaScript 闭包 —— SegmentFault](https://segmentfault.com/a/1190000006875662)
+- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6#comment)
+
 ### 视频
+
+- :tv: [JavaScript 闭包和闭包面试题 —— 爱奇艺](http://www.iqiyi.com/w_19rr1amael.html)
+- :tv: [js 面向对象闭包数组 11.闭包 —— 乐视](http://www.le.com/ptv/vplay/27478410.html?ch=baidu_s)
+- :tv: [白贺翔\_函数(闭包) —— 乐视](http://www.le.com/ptv/vplay/30505852.html?ch=baidu_s)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -201,7 +231,10 @@
 
 ### 文章
 
-### 视频
+- :book: [高阶函数 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499355829ead974e550644e2ebd9fd8bb1b0dd721000)
+- :book: [ES5 中新增的 Array 方法详细说明 —— 张鑫旭](https://www.zhangxinxu.com/wordpress/2013/04/es5%e6%96%b0%e5%a2%9e%e6%95%b0%e7%bb%84%e6%96%b9%e6%b3%95/)
+- :book: [一张图看懂 JavaScript 中数组的迭代方法：forEach、map、filter、reduce、every、some —— 掘金](https://juejin.im/post/5835808067f3560065ed4ab2)
+- :book: [Transducing（上）－《JavaScript 轻量级函数式编程》 —— SegmentFault](https://segmentfault.com/a/1190000012127329)
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -217,8 +250,6 @@
 - :book: [重讀 Axel 的 Javascript 中的 Expression vs Statement 一文 —— SegmentFault](https://segmentfault.com/a/1190000004565693)
 - :book: [Expressions versus statements in JavaScript —— Dr. Axel](http://2ality.com/2012/09/expressions-vs-statements.html)
 
-### 视频
-
 **[:arrow_up: back_to_up](#目录)**
 
 ---
@@ -231,8 +262,6 @@
 - :book: [ES6 变量作用域与提升：变量的生命周期详解 —— 掘金](https://juejin.im/post/59905bea6fb9a03c34192c51)
 - :book: [[翻译] JavaScript Scoping and Hoisting —— SegmentFault](https://segmentfault.com/a/1190000004345355#articleHeader5)
 - :book: [JavaScript Scoping and Hoisting —— Ben Cherry](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
-
-### 视频
 
 **[:arrow_up: back_to_up](#目录)**
 
@@ -446,10 +475,16 @@
 
 ### 文章.
 
+- :book: [Javascript 函数式编程之偏函数 —— CSDN](https://blog.csdn.net/qq_42129063/article/details/81874314)
 - :book: [JavaScript 专题之偏函数 —— SegmentFault](https://segmentfault.com/a/1190000010686144)
 - :book: [柯里化和偏函数有什么区别？ —— SegmentFault](https://segmentfault.com/q/1010000008626058)
 - :book: [Javascript 偏函数与柯里化 —— CSDN](https://blog.csdn.net/neweastsun/article/details/75947785)
+- :book: [柯里化(curry) —— JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch4.html)
+- :book: [代码组合(compose) —— JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch5.html)
+- :book: [关于 javascript 函数式编程中 compose 的实现 —— SegmentFault](https://segmentfault.com/a/1190000008394749)
+- :book: [实现 compose 的五种思路 —— SegmentFault](https://segmentfault.com/a/1190000011447164)
 - :book: [JavaScript 函数式编程之函数组合函数 compose 和 pipe 的实现 —— SegmentFault](https://segmentfault.com/a/1190000015102804)
+- :book: [JavaScript 轻量级函数式编程-第 4 章:组合函数 ——掘金](https://juejin.im/post/59a62f3d6fb9a0248363fd9d#comment)
 
 ### 视频
 
