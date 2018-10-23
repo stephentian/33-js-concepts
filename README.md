@@ -480,7 +480,7 @@
 - :book: [构造函数、原型与原型链 —— github](https://github.com/bigdots/blog/issues/1)
 - :book: [原型及原型链 —— github(1269 Star)](https://github.com/stone0090/javascript-lessons/tree/master/2.5-Prototype)
 - :book: [理清 javascript 中的面向对象(一) 原型继承 —— SegmentFault](https://segmentfault.com/a/1190000004282206)
-- :book: [JavaScript：继承和原型链(译) —— justjavac](https://www.douban.com/note/529282531/)
+- :book: [JavaScript：继承和原型链(译) —— justjavac](http://justjavac.com/2015/12/09/inheritance-and-the-prototype-chain.html)
 - :book: [三张图搞懂 JavaScript 的原型对象与原型链 —— 博客园](http://www.cnblogs.com/shuiyi/p/5305435.html)
 - :book: [一张图让你搞懂 JavaScript 的继承与原型链 —— CSDN](https://blog.csdn.net/the__apollo/article/details/76774698)
 - :book: [JS 高级--原型链(一看就懂，但 18 岁以下请绕道) —— CSDN](https://blog.csdn.net/xiaotao_css/article/details/72782416)
