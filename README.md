@@ -22,6 +22,7 @@
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
+- 2018-10-24 更新：@BuptStEve 贡献的三篇关于“函数式编程”方面的文章
 
 ---
 
@@ -237,6 +238,7 @@
 - :book: [ES5 中新增的 Array 方法详细说明 —— 张鑫旭](https://www.zhangxinxu.com/wordpress/2013/04/es5%e6%96%b0%e5%a2%9e%e6%95%b0%e7%bb%84%e6%96%b9%e6%b3%95/)
 - :book: [一张图看懂 JavaScript 中数组的迭代方法：forEach、map、filter、reduce、every、some —— 掘金](https://juejin.im/post/5835808067f3560065ed4ab2)
 - :book: [Transducing（上）－《JavaScript 轻量级函数式编程》 —— SegmentFault](https://segmentfault.com/a/1190000012127329)
+- :book: [JavaScript 函数式编程（三） —— @BuptStEve](https://github.com/BuptStEve/blog/issues/15)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -566,6 +568,7 @@
 - :book: [js 函数的副作用分析 —— 脚本之家](https://www.jb51.net/article/28079.htm)
 - :book: [如何使用纯函数式 JavaScript 处理脏副作用 —— 掘金](https://juejin.im/post/5b82bdb351882542e241ed32?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)
 - :book: [原生 JavaScript 实现 state 状态管理系统 —— 博客园](http://www.cnblogs.com/zhangycun/p/9403335.html)
+- :book: [JavaScript 函数式编程 —— @BuptStEve](https://github.com/BuptStEve/blog/issues/10)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -630,6 +633,7 @@
 - :book: [实现 compose 的五种思路 —— SegmentFault](https://segmentfault.com/a/1190000011447164)
 - :book: [JavaScript 函数式编程之函数组合函数 compose 和 pipe 的实现 —— SegmentFault](https://segmentfault.com/a/1190000015102804)
 - :book: [JavaScript 轻量级函数式编程-第 4 章:组合函数 ——掘金](https://juejin.im/post/59a62f3d6fb9a0248363fd9d#comment)
+- :book: [JavaScript 函数式编程（二） —— @BuptStEve](https://github.com/BuptStEve/blog/issues/11)
 
 **[:arrow_up: 返回目录](#目录)**
 
