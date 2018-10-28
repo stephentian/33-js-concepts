@@ -368,7 +368,7 @@
 - :book: [深入浅出 Javascript 事件循环机制 —— 知乎](https://zhuanlan.zhihu.com/p/26229293)
 - :book: [JS 事件循环机制（event loop）之宏任务、微任务 —— SegmentFault](https://segmentfault.com/a/1190000014940904#articleHeader7)
 - :book: [JavaScript：彻底理解同步、异步和事件循环 —— SegmentFault](https://segmentfault.com/a/1190000004322358)
-- :book: [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)
+- :book: [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理 —— 掘金](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 
 **[:arrow_up: 返回目录](#目录)**
 
