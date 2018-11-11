@@ -131,6 +131,11 @@
 - :book: [js 值引用和值复制 —— SegmentFault](https://segmentfault.com/a/1190000015411195)
 - :book: [js- 引用和复制(传值和传址) —— CSDN](https://blog.csdn.net/zzzaquarius/article/details/4902235)
 
+### 视频
+
+- :tv: [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
+- :tv: [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
+
 **[:arrow_up: 返回目录](#目录)**
 
 ---
