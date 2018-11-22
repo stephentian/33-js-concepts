@@ -195,7 +195,6 @@
 - :book: [this、apply、call、bind —— 掘金](https://juejin.im/post/59bfe84351882531b730bac2)
 - :book: [使用 call、apply 和 bind 解决 js 中烦人的 this，事件绑定时的 this 和传参问题 —— 博客园](https://www.cnblogs.com/tingyu-blog/p/6212392.html)
 - :book: [call、apply 和 bind 的原生实现 —— github](https://github.com/Abiel1024/blog/issues/16)
-- :book: [详解 JS 中的 this、apply、call、bind(经典面试题) —— 脚本之家](https://www.jb51.net/article/124024.htm)
 
 ### 视频
 
