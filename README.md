@@ -22,7 +22,8 @@
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
-- 2018-10-24 更新：@BuptStEve 贡献的三篇关于“函数式编程”方面的文章
+- 2018-10-24 更新：@BuptStEve 贡献的三篇关于" 函数式编程 "方面的文章
+- 2018-12-04 更新：@haner199401 贡献的 @冴羽 "JavaScript深入之从原型到原型链"
 
 ---
 
@@ -508,6 +509,7 @@
 - :book: [原型继承 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014344997013405abfb7f0e1904a04ba6898a384b1e925000)
 - :book: [JS 原型链与继承别再被问倒了 —— 掘金](https://juejin.im/post/58f94c9bb123db411953691b)
 - :book: [征服 JavaScript 面试系列：类继承和原型继承的区别 —— 掘金](https://juejin.im/entry/5885db221b69e600592253e7)
+- :book: [JavaScript深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
 
 ### 视频
 
