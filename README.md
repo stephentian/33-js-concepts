@@ -68,7 +68,7 @@
 
 ### 文章
 
-- :book: [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+- :book: [Call Stack — MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Call_stack)
 - :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42)
 - :book: [[译] 理解 JavaScript 中的执行上下文和执行栈 —— 掘金](https://juejin.im/post/5ba32171f265da0ab719a6d7)
 - :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -99,7 +99,7 @@
 
 - :book: [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
 - :book: [ECMAScript 原始类型 —— W3school](http://www.w3school.com.cn/js/pro_js_primitivetypes.asp)
-- :book: [How numbers are encoded in JavaScript —— Dr. Axe](http://2ality.com/2012/04/number-encoding.html)
+- :book: [[译]JavaScript是怎样编码数字的](https://segmentfault.com/a/1190000017090272)
 - :book: [每一个 JavaScript 开发者应该了解的浮点知识 —— 颜海镜](https://yanhaijing.com/javascript/2014/03/14/what-every-javascript-developer-should-know-about-floating-points/)
 - :book: [JavaScript 标准参考教程(基本语法之数值) —— 阮一峰](https://wangdoc.com/javascript/types/number.html)
 - :book: [The Secret Life of JavaScript Primitives —— Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
