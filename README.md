@@ -22,6 +22,8 @@
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
+- 2018-10-24 更新：@BuptStEve 贡献的三篇关于" 函数式编程 "方面的文章
+- 2018-12-04 更新：@haner199401 贡献的 @冴羽 "JavaScript深入之从原型到原型链"
 
 ---
 
@@ -67,8 +69,8 @@
 
 ### 文章
 
-- :book: [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-- :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42#comment)
+- :book: [Call Stack — MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Call_stack)
+- :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42)
 - :book: [[译] 理解 JavaScript 中的执行上下文和执行栈 —— 掘金](https://juejin.im/post/5ba32171f265da0ab719a6d7)
 - :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
 - :book: [解读 JavaScript 之引擎、运行时和堆栈调用 —— 开源中国](https://www.oschina.net/translate/how-does-javascript-actually-work-part-1)
@@ -80,6 +82,13 @@
 - :tv: [Understanding The JavaScript Call Stack, Event Queue, Event Table, & Event Loop —— Bilibili](https://www.bilibili.com/video/av33824933/)
 - :tv: [JS 中的变量提升、堆栈内存及闭包详解 —— Acfun](http://www.acfun.cn/v/ac4495641)
 - :tv: [事件循环模型 —— PHP 中文网](http://www.php.cn/code/21194.html)
+- :tv: [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- :tv: [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+- :tv: [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
+- :tv: [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
+- :tv: [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+- :tv: [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+- :tv: [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -91,7 +100,7 @@
 
 - :book: [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
 - :book: [ECMAScript 原始类型 —— W3school](http://www.w3school.com.cn/js/pro_js_primitivetypes.asp)
-- :book: [How numbers are encoded in JavaScript —— Dr. Axe](http://2ality.com/2012/04/number-encoding.html)
+- :book: [[译]JavaScript是怎样编码数字的](https://segmentfault.com/a/1190000017090272)
 - :book: [每一个 JavaScript 开发者应该了解的浮点知识 —— 颜海镜](https://yanhaijing.com/javascript/2014/03/14/what-every-javascript-developer-should-know-about-floating-points/)
 - :book: [JavaScript 标准参考教程(基本语法之数值) —— 阮一峰](https://wangdoc.com/javascript/types/number.html)
 - :book: [The Secret Life of JavaScript Primitives —— Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
@@ -100,6 +109,12 @@
 
 - :tv: [javascript 六种数据类型 —— 慕课网](https://www.imooc.com/video/5674)
 - :tv: [javascript 视频教程(数据类型) —— PHP 中文网](http://www.php.cn/code/5808.html)
+- :tv: [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+- :tv: [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
+- :tv: [Javascript Primitive and Reference Types — Baljeet Singh](https://www.youtube.com/watch?v=F7YbhKbpFic)
+- :tv: [Value Types and Reference Types in JavaScript — Programming with Mosh](https://www.youtube.com/watch?v=e-_mDyqm2oU)
+- :tv: [JavaScript Primitive Data Types — Avelx](https://www.youtube.com/watch?v=qw3j0A3DIzQ)
+- :tv: [Everything you never wanted to know about JavaScript numbers — Bartek Szopka](https://www.youtube.com/watch?v=MqHDDtVYJRI)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -116,6 +131,11 @@
 - :book: [JavaScript: Passing by Value or by Reference —— CSDN](https://blog.csdn.net/xiaojia_boke/article/details/54906509)
 - :book: [js 值引用和值复制 —— SegmentFault](https://segmentfault.com/a/1190000015411195)
 - :book: [js- 引用和复制(传值和传址) —— CSDN](https://blog.csdn.net/zzzaquarius/article/details/4902235)
+
+### 视频
+
+- :tv: [Javascript Pass by Value vs Pass by Reference — techsith](https://www.youtube.com/watch?v=E-dAnFdq8k8)
+- :tv: [JavaScript Value vs Reference Types — Programming with Mosh](https://www.youtube.com/watch?v=fD0t_DKREbE)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -160,7 +180,7 @@
 - :book: [JavaScript 的 typeof 的用途 —— justjavac](http://justjavac.com/javascript/2012/12/23/what-is-javascripts-typeof-operator-used-for.html)
 - :book: [一张图看懂 Function 和 Object 的关系及简述 instanceof 运算符 —— 掘金](https://juejin.im/post/58358606570c35005e4142bd)
 - :book: [浅谈 instanceof 和 typeof 的实现原理 —— 掘金](https://juejin.im/post/5b0b9b9051882515773ae714)
-- :book: [js 中 typeof 与 instanceof 用法 —— 博客园](https://www.cnblogs.com/double405/p/5326311.html)
+- :book: [typeof 和 instanceOf的区别](https://segmentfault.com/a/1190000000730982)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -176,7 +196,6 @@
 - :book: [this、apply、call、bind —— 掘金](https://juejin.im/post/59bfe84351882531b730bac2)
 - :book: [使用 call、apply 和 bind 解决 js 中烦人的 this，事件绑定时的 this 和传参问题 —— 博客园](https://www.cnblogs.com/tingyu-blog/p/6212392.html)
 - :book: [call、apply 和 bind 的原生实现 —— github](https://github.com/Abiel1024/blog/issues/16)
-- :book: [详解 JS 中的 this、apply、call、bind(经典面试题) —— 脚本之家](https://www.jb51.net/article/124024.htm)
 
 ### 视频
 
@@ -237,6 +256,7 @@
 - :book: [ES5 中新增的 Array 方法详细说明 —— 张鑫旭](https://www.zhangxinxu.com/wordpress/2013/04/es5%e6%96%b0%e5%a2%9e%e6%95%b0%e7%bb%84%e6%96%b9%e6%b3%95/)
 - :book: [一张图看懂 JavaScript 中数组的迭代方法：forEach、map、filter、reduce、every、some —— 掘金](https://juejin.im/post/5835808067f3560065ed4ab2)
 - :book: [Transducing（上）－《JavaScript 轻量级函数式编程》 —— SegmentFault](https://segmentfault.com/a/1190000012127329)
+- :book: [JavaScript 函数式编程（三） —— @BuptStEve](https://github.com/BuptStEve/blog/issues/15)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -275,7 +295,7 @@
 
 - :book: [使用 promises —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)
 - :book: [Promise —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- :book: [Promie — 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000)
+- :book: [Promise — 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000)
 - :book: [JavaScript Promise：去而复返 —— 司徒正美](https://www.cnblogs.com/rubylouvre/p/3495286.html)
 - :book: [(上面的原文)JavaScript Promise：简介 —— Web Fundamentals](https://developers.google.com/web/fundamentals/primers/promises#_1)
 - :book: [1 分钟读完《10 分钟学会 JavaScript 的 Async/Await》 —— justjavac](https://segmentfault.com/a/1190000011813934)
@@ -366,6 +386,7 @@
 - :book: [深入浅出 Javascript 事件循环机制 —— 知乎](https://zhuanlan.zhihu.com/p/26229293)
 - :book: [JS 事件循环机制（event loop）之宏任务、微任务 —— SegmentFault](https://segmentfault.com/a/1190000014940904#articleHeader7)
 - :book: [JavaScript：彻底理解同步、异步和事件循环 —— SegmentFault](https://segmentfault.com/a/1190000004322358)
+- :book: [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理 —— 掘金](https://juejin.im/post/5a6547d0f265da3e283a1df7)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -487,6 +508,7 @@
 - :book: [原型继承 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014344997013405abfb7f0e1904a04ba6898a384b1e925000)
 - :book: [JS 原型链与继承别再被问倒了 —— 掘金](https://juejin.im/post/58f94c9bb123db411953691b)
 - :book: [征服 JavaScript 面试系列：类继承和原型继承的区别 —— 掘金](https://juejin.im/entry/5885db221b69e600592253e7)
+- :book: [JavaScript深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
 
 ### 视频
 
@@ -501,7 +523,7 @@
 
 ### 文章
 
-- :book: [Object.create —— MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+- :book: [Object.create —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 - :book: [Object.assign —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 - :book: [Object.create vs Object.assign —— 慕课网手记](https://www.imooc.com/article/17591)
 - :book: [JS 中的 Object.assign()、Object.create()、Object.defineProperty() —— CSDN](https://blog.csdn.net/DeepLies/article/details/52915143)
@@ -566,6 +588,7 @@
 - :book: [js 函数的副作用分析 —— 脚本之家](https://www.jb51.net/article/28079.htm)
 - :book: [如何使用纯函数式 JavaScript 处理脏副作用 —— 掘金](https://juejin.im/post/5b82bdb351882542e241ed32?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com)
 - :book: [原生 JavaScript 实现 state 状态管理系统 —— 博客园](http://www.cnblogs.com/zhangycun/p/9403335.html)
+- :book: [JavaScript 函数式编程 —— @BuptStEve](https://github.com/BuptStEve/blog/issues/10)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -630,6 +653,7 @@
 - :book: [实现 compose 的五种思路 —— SegmentFault](https://segmentfault.com/a/1190000011447164)
 - :book: [JavaScript 函数式编程之函数组合函数 compose 和 pipe 的实现 —— SegmentFault](https://segmentfault.com/a/1190000015102804)
 - :book: [JavaScript 轻量级函数式编程-第 4 章:组合函数 ——掘金](https://juejin.im/post/59a62f3d6fb9a0248363fd9d#comment)
+- :book: [JavaScript 函数式编程（二） —— @BuptStEve](https://github.com/BuptStEve/blog/issues/11)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -644,6 +668,7 @@
 - :book: [重构 - 代码整洁之道 —— 掘金](https://juejin.im/post/5a5b2a5c6fb9a01cbc6e59f9)
 - :book: [让你的代码更简短，更整洁，更易读的 ES6 小技巧 —— 掘金](https://juejin.im/post/5a7d71836fb9a063435ecf51)
 - :book: [Web 前端：11 个让你代码整洁的原则 —— 伯乐在线](http://blog.jobbole.com/23617/)
+- :book: [Clean Code concepts adapted for JavaScript —— ryanmcdermott](https://github.com/ryanmcdermott/clean-code-javascript)
 
 <br>
 
