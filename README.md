@@ -23,7 +23,7 @@
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
 - 2018-10-24 更新：@BuptStEve 贡献的三篇关于" 函数式编程 "方面的文章
-- 2018-12-04 更新：@haner199401 贡献的 @冴羽 "JavaScript深入之从原型到原型链"
+- 2018-12-04 更新：@haner199401 贡献的 @冴羽 "JavaScript 深入之从原型到原型链"
 
 ---
 
@@ -100,7 +100,7 @@
 
 - :book: [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
 - :book: [ECMAScript 原始类型 —— W3school](http://www.w3school.com.cn/js/pro_js_primitivetypes.asp)
-- :book: [[译]JavaScript是怎样编码数字的](https://segmentfault.com/a/1190000017090272)
+- :book: [[译]JavaScript 是怎样编码数字的](https://segmentfault.com/a/1190000017090272)
 - :book: [每一个 JavaScript 开发者应该了解的浮点知识 —— 颜海镜](https://yanhaijing.com/javascript/2014/03/14/what-every-javascript-developer-should-know-about-floating-points/)
 - :book: [JavaScript 标准参考教程(基本语法之数值) —— 阮一峰](https://wangdoc.com/javascript/types/number.html)
 - :book: [The Secret Life of JavaScript Primitives —— Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
@@ -180,7 +180,7 @@
 - :book: [JavaScript 的 typeof 的用途 —— justjavac](http://justjavac.com/javascript/2012/12/23/what-is-javascripts-typeof-operator-used-for.html)
 - :book: [一张图看懂 Function 和 Object 的关系及简述 instanceof 运算符 —— 掘金](https://juejin.im/post/58358606570c35005e4142bd)
 - :book: [浅谈 instanceof 和 typeof 的实现原理 —— 掘金](https://juejin.im/post/5b0b9b9051882515773ae714)
-- :book: [typeof 和 instanceOf的区别](https://segmentfault.com/a/1190000000730982)
+- :book: [typeof 和 instanceOf 的区别](https://segmentfault.com/a/1190000000730982)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -508,7 +508,7 @@
 - :book: [原型继承 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014344997013405abfb7f0e1904a04ba6898a384b1e925000)
 - :book: [JS 原型链与继承别再被问倒了 —— 掘金](https://juejin.im/post/58f94c9bb123db411953691b)
 - :book: [征服 JavaScript 面试系列：类继承和原型继承的区别 —— 掘金](https://juejin.im/entry/5885db221b69e600592253e7)
-- :book: [JavaScript深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
+- :book: [JavaScript 深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
 
 ### 视频
 
@@ -603,7 +603,6 @@
 - :book: [算法（一）时间复杂度 —— 掘金](https://juejin.im/post/58d15f1044d90400691834d4)
 - :book: [Big O Search Algorithms in JavaScript —— Bradley Braithwaite](http://www.bradoncode.com/blog/2012/04/big-o-algorithm-examples-in-javascript.html)
 - :book: [Time Complexity Analysis in JavaScript — Jennifer Bland](https://www.jenniferbland.com/time-complexity-analysis-in-javascript/)
--
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -641,7 +640,7 @@
 
 ## 32. 偏函数, 柯里化, Compose 和 Pipe
 
-### 文章.
+### 文章
 
 - :book: [Javascript 函数式编程之偏函数 —— CSDN](https://blog.csdn.net/qq_42129063/article/details/81874314)
 - :book: [JavaScript 专题之偏函数 —— SegmentFault](https://segmentfault.com/a/1190000010686144)
