@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "lint-md": "^0.0.6"
+  },
+  "scripts": {
+    "test": "lint-md README.md"
+  }
+}
