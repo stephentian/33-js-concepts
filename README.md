@@ -69,20 +69,20 @@
 
 ### 文章
 
-- [ ] :book: [Call Stack — MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Call_stack)
-- [ ] :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42)
-- [ ] :book: [[译] 理解 JavaScript 中的执行上下文和执行栈 —— 掘金](https://juejin.im/post/5ba32171f265da0ab719a6d7)
-- [ ] :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
-- [ ] :book: [解读 JavaScript 之引擎、运行时和堆栈调用 —— 开源中国](https://www.oschina.net/translate/how-does-javascript-actually-work-part-1)
+- [x] :book: [Call Stack — MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Call_stack)
+- [x] :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42)
+- [x] :book: [[译] 理解 JavaScript 中的执行上下文和执行栈 —— 掘金](https://juejin.im/post/5ba32171f265da0ab719a6d7)
+- [x] :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
+- [x] :book: [解读 JavaScript 之引擎、运行时和堆栈调用 —— 开源中国](https://www.oschina.net/translate/how-does-javascript-actually-work-part-1)
 - [ ] :book: [Tasks, microtasks, queues and schedules —— Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
 ### 视频
 
-- [ ] :tv: [What is the event loop anyway? —— 腾讯视频(英文字幕)](https://v.qq.com/x/page/h0372bld8re.html?ptag=qqbrowser)
-- [ ] :tv: [Understanding The JavaScript Call Stack, Event Queue, Event Table, & Event Loop —— Bilibili](https://www.bilibili.com/video/av33824933/)
+- [x] :tv: [What is the event loop anyway? —— 腾讯视频(英文字幕)](https://v.qq.com/x/page/h0372bld8re.html?ptag=qqbrowser)
+- [x] :tv: [Understanding The JavaScript Call Stack, Event Queue, Event Table, & Event Loop —— Bilibili](https://www.bilibili.com/video/av33824933/)
 - [ ] :tv: [JS 中的变量提升、堆栈内存及闭包详解 —— Acfun](http://www.acfun.cn/v/ac4495641)
-- [ ] :tv: [事件循环模型 —— PHP 中文网](http://www.php.cn/code/21194.html)
-- [ ] :tv: [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- [x] :tv: [事件循环模型 —— PHP 中文网](http://www.php.cn/code/21194.html)
+- [x] :tv: [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
 - [ ] :tv: [The JS Call Stack Explained In 9 Minutes — Colt Steele](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 - [ ] :tv: [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
 - [ ] :tv: [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
