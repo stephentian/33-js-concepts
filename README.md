@@ -87,7 +87,7 @@
 - [x] :tv: [JavaScript Execution Stack — Codecademy](https://www.youtube.com/watch?v=jT0USJeNFEA)
 - [x] :tv: [What is the Call Stack? — Eric Traub](https://www.youtube.com/watch?v=w7QWQlkLY_s)
 - [x] :tv: [The Call Stack — Kevin Drumm](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
-- [ ] :tv: [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+- [x] :tv: [Understanding JavaScript Execution — Codesmith](https://www.youtube.com/watch?v=Z6a1cLyq7Ac&list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
 - [x] :tv: [Call Stack & Event Loop — movies com](https://www.youtube.com/watch?v=mk0lu9MKBto)
 
 **[:arrow_up: 返回目录](#目录)**
