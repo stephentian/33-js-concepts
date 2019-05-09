@@ -99,7 +99,7 @@
 ### 文章
 
 - :book: [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
-- :book: [[译]JavaScript 是怎样编码数字的](https://segmentfault.com/a/1190000017090272)
+- :book: [[译]JavaScript 是怎样编码数字的 —— SegmentFault](https://segmentfault.com/a/1190000017090272)
 - :book: [每一个 JavaScript 开发者应该了解的浮点知识 —— 颜海镜](https://yanhaijing.com/javascript/2014/03/14/what-every-javascript-developer-should-know-about-floating-points/)
 - :book: [JavaScript 标准参考教程(基本语法之数值) —— 阮一峰](https://wangdoc.com/javascript/types/number.html)
 - :book: [The Secret Life of JavaScript Primitives —— Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
@@ -551,7 +551,6 @@
 
 ### 文章
 
-- :book: [设计模式 —— 阮一峰](http://javascript.ruanyifeng.com/library/designpattern.html)
 - :book: [JavaScript 设计模式 —— 掘金](https://juejin.im/post/59df4f74f265da430f311909)
 - :book: [学用 JavaScript 设计模式 —— 极客学院](http://wiki.jikexueyuan.com/project/javascript-design-patterns/)
 - :book: [[面试专题]JS 设计模式 —— SegmentFault](https://segmentfault.com/a/1190000010914032)
