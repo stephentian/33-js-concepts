@@ -75,6 +75,7 @@
 - :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
 - :book: [解读 JavaScript 之引擎、运行时和堆栈调用 —— 开源中国](https://www.oschina.net/translate/how-does-javascript-actually-work-part-1)
 - :book: [Tasks, microtasks, queues and schedules —— Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- :book: [Tasks, microtasks, queues and schedules（译） —— 掘金](https://juejin.im/entry/55dbd51a60b2f3a92a8f5bff)
 
 ### 视频
 
