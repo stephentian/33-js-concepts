@@ -236,7 +236,8 @@
 - :book: [一次性搞懂 JavaScript 闭包 —— 简书](https://www.jianshu.com/p/796e903754f1)
 - :book: [JavaScript 闭包 —— SegmentFault](https://segmentfault.com/a/1190000006875662)
 - :book: [js 匿名自执行函数中闭包的高级使用 —— 掘金](https://juejin.im/entry/5800eb7da22b9d005b36156e)
-- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6#comment)
+- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6)
+- :book: [深入理解 JavaScript 原型与闭包 —— 王福朋](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 ### 视频
 
@@ -511,6 +512,7 @@
 - :book: [JS 原型链与继承别再被问倒了 —— 掘金](https://juejin.im/post/58f94c9bb123db411953691b)
 - :book: [征服 JavaScript 面试系列：类继承和原型继承的区别 —— 掘金](https://juejin.im/entry/5885db221b69e600592253e7)
 - :book: [JavaScript 深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
+- :book: [深入理解 JavaScript 原型与闭包 —— 王福朋](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 ### 视频
 
