@@ -319,6 +319,8 @@
 - :book: [Javascript 的匿名函数与自执行 —— 掘金](https://juejin.im/entry/57fee360a22b9d005b1d9ae3)
 - :book: [前端模块化——技术选型 —— SegmentFault](https://segmentfault.com/a/1190000006966358)
 - :book: [谈谈 Js 前端模块化规范 —— SegmentFault](https://segmentfault.com/a/1190000015991869#articleHeader8)
+- :book: [函数声明与函数表达式的区别 —— 伯乐在线](http://web.jobbole.com/87534/)
+
 
 **[:arrow_up: 返回目录](#目录)**
 
