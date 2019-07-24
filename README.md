@@ -22,7 +22,8 @@
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
-- 2018-10-24 更新：@BuptStEve 贡献的三篇关于“函数式编程”方面的文章
+- 2018-10-24 更新：@BuptStEve 贡献的三篇关于" 函数式编程 "方面的文章
+- 2018-12-04 更新：@haner199401 贡献的 @冴羽 "JavaScript 深入之从原型到原型链"
 
 ---
 
@@ -68,12 +69,13 @@
 
 ### 文章
 
-- :book: [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-- :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42#comment)
+- :book: [Call Stack — MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Call_stack)
+- :book: [[译] JavaScript 如何工作：对引擎、运行时、调用堆栈的概述 —— 掘金](https://juejin.im/post/5a05b4576fb9a04519690d42)
 - :book: [[译] 理解 JavaScript 中的执行上下文和执行栈 —— 掘金](https://juejin.im/post/5ba32171f265da0ab719a6d7)
 - :book: [这一次，彻底弄懂 JavaScript 执行机制 —— 掘金](https://juejin.im/post/59e85eebf265da430d571f89)
 - :book: [解读 JavaScript 之引擎、运行时和堆栈调用 —— 开源中国](https://www.oschina.net/translate/how-does-javascript-actually-work-part-1)
 - :book: [Tasks, microtasks, queues and schedules —— Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- :book: [Tasks, microtasks, queues and schedules（译） —— 掘金](https://juejin.im/entry/55dbd51a60b2f3a92a8f5bff)
 
 ### 视频
 
@@ -98,8 +100,7 @@
 ### 文章
 
 - :book: [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
-- :book: [ECMAScript 原始类型 —— W3school](http://www.w3school.com.cn/js/pro_js_primitivetypes.asp)
-- :book: [How numbers are encoded in JavaScript —— Dr. Axe](http://2ality.com/2012/04/number-encoding.html)
+- :book: [[译]JavaScript 是怎样编码数字的 —— SegmentFault](https://segmentfault.com/a/1190000017090272)
 - :book: [每一个 JavaScript 开发者应该了解的浮点知识 —— 颜海镜](https://yanhaijing.com/javascript/2014/03/14/what-every-javascript-developer-should-know-about-floating-points/)
 - :book: [JavaScript 标准参考教程(基本语法之数值) —— 阮一峰](https://wangdoc.com/javascript/types/number.html)
 - :book: [The Secret Life of JavaScript Primitives —— Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
@@ -179,7 +180,7 @@
 - :book: [JavaScript 的 typeof 的用途 —— justjavac](http://justjavac.com/javascript/2012/12/23/what-is-javascripts-typeof-operator-used-for.html)
 - :book: [一张图看懂 Function 和 Object 的关系及简述 instanceof 运算符 —— 掘金](https://juejin.im/post/58358606570c35005e4142bd)
 - :book: [浅谈 instanceof 和 typeof 的实现原理 —— 掘金](https://juejin.im/post/5b0b9b9051882515773ae714)
-- :book: [js 中 typeof 与 instanceof 用法 —— 博客园](https://www.cnblogs.com/double405/p/5326311.html)
+- :book: [typeof 和 instanceOf 的区别](https://segmentfault.com/a/1190000000730982)
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -195,7 +196,6 @@
 - :book: [this、apply、call、bind —— 掘金](https://juejin.im/post/59bfe84351882531b730bac2)
 - :book: [使用 call、apply 和 bind 解决 js 中烦人的 this，事件绑定时的 this 和传参问题 —— 博客园](https://www.cnblogs.com/tingyu-blog/p/6212392.html)
 - :book: [call、apply 和 bind 的原生实现 —— github](https://github.com/Abiel1024/blog/issues/16)
-- :book: [详解 JS 中的 this、apply、call、bind(经典面试题) —— 脚本之家](https://www.jb51.net/article/124024.htm)
 
 ### 视频
 
@@ -236,7 +236,8 @@
 - :book: [一次性搞懂 JavaScript 闭包 —— 简书](https://www.jianshu.com/p/796e903754f1)
 - :book: [JavaScript 闭包 —— SegmentFault](https://segmentfault.com/a/1190000006875662)
 - :book: [js 匿名自执行函数中闭包的高级使用 —— 掘金](https://juejin.im/entry/5800eb7da22b9d005b36156e)
-- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6#comment)
+- :book: [高效使用 JavaScript 闭包 —— 掘金](https://juejin.im/entry/59df405251882551bf7e58c6)
+- :book: [深入理解 JavaScript 原型与闭包 —— 王福朋](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 ### 视频
 
@@ -295,7 +296,7 @@
 
 - :book: [使用 promises —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Using_promises)
 - :book: [Promise —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- :book: [Promie — 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000)
+- :book: [Promise — 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014345008539155e93fc16046d4bb7854943814c4f9dc2000)
 - :book: [JavaScript Promise：去而复返 —— 司徒正美](https://www.cnblogs.com/rubylouvre/p/3495286.html)
 - :book: [(上面的原文)JavaScript Promise：简介 —— Web Fundamentals](https://developers.google.com/web/fundamentals/primers/promises#_1)
 - :book: [1 分钟读完《10 分钟学会 JavaScript 的 Async/Await》 —— justjavac](https://segmentfault.com/a/1190000011813934)
@@ -319,6 +320,8 @@
 - :book: [Javascript 的匿名函数与自执行 —— 掘金](https://juejin.im/entry/57fee360a22b9d005b1d9ae3)
 - :book: [前端模块化——技术选型 —— SegmentFault](https://segmentfault.com/a/1190000006966358)
 - :book: [谈谈 Js 前端模块化规范 —— SegmentFault](https://segmentfault.com/a/1190000015991869#articleHeader8)
+- :book: [函数声明与函数表达式的区别 —— 伯乐在线](http://web.jobbole.com/87534/)
+
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -508,6 +511,8 @@
 - :book: [原型继承 —— 廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/0014344997013405abfb7f0e1904a04ba6898a384b1e925000)
 - :book: [JS 原型链与继承别再被问倒了 —— 掘金](https://juejin.im/post/58f94c9bb123db411953691b)
 - :book: [征服 JavaScript 面试系列：类继承和原型继承的区别 —— 掘金](https://juejin.im/entry/5885db221b69e600592253e7)
+- :book: [JavaScript 深入之从原型到原型链 —— 冴羽](https://github.com/mqyqingfeng/Blog/issues/2)
+- :book: [深入理解 JavaScript 原型与闭包 —— 王福朋](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
 ### 视频
 
@@ -551,7 +556,6 @@
 
 ### 文章
 
-- :book: [设计模式 —— 阮一峰](http://javascript.ruanyifeng.com/library/designpattern.html)
 - :book: [JavaScript 设计模式 —— 掘金](https://juejin.im/post/59df4f74f265da430f311909)
 - :book: [学用 JavaScript 设计模式 —— 极客学院](http://wiki.jikexueyuan.com/project/javascript-design-patterns/)
 - :book: [[面试专题]JS 设计模式 —— SegmentFault](https://segmentfault.com/a/1190000010914032)
@@ -602,7 +606,6 @@
 - :book: [算法（一）时间复杂度 —— 掘金](https://juejin.im/post/58d15f1044d90400691834d4)
 - :book: [Big O Search Algorithms in JavaScript —— Bradley Braithwaite](http://www.bradoncode.com/blog/2012/04/big-o-algorithm-examples-in-javascript.html)
 - :book: [Time Complexity Analysis in JavaScript — Jennifer Bland](https://www.jenniferbland.com/time-complexity-analysis-in-javascript/)
--
 
 **[:arrow_up: 返回目录](#目录)**
 
@@ -640,7 +643,7 @@
 
 ## 32. 偏函数, 柯里化, Compose 和 Pipe
 
-### 文章.
+### 文章
 
 - :book: [Javascript 函数式编程之偏函数 —— CSDN](https://blog.csdn.net/qq_42129063/article/details/81874314)
 - :book: [JavaScript 专题之偏函数 —— SegmentFault](https://segmentfault.com/a/1190000010686144)
@@ -667,6 +670,7 @@
 - :book: [重构 - 代码整洁之道 —— 掘金](https://juejin.im/post/5a5b2a5c6fb9a01cbc6e59f9)
 - :book: [让你的代码更简短，更整洁，更易读的 ES6 小技巧 —— 掘金](https://juejin.im/post/5a7d71836fb9a063435ecf51)
 - :book: [Web 前端：11 个让你代码整洁的原则 —— 伯乐在线](http://blog.jobbole.com/23617/)
+- :book: [Clean Code concepts adapted for JavaScript —— ryanmcdermott](https://github.com/ryanmcdermott/clean-code-javascript)
 
 <br>
 
