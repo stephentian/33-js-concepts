@@ -531,7 +531,6 @@
 - :book: [Object.assign —— MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 - :book: [Object.create vs Object.assign —— 慕课网手记](https://www.imooc.com/article/17591)
 - :book: [JS 中的 Object.assign()、Object.create()、Object.defineProperty() —— CSDN](https://blog.csdn.net/DeepLies/article/details/52915143)
-- :book: [es6 中 object.create()和 object.assign() —— 风信子博客](http://www.onlyfordream.cn/2018/03/19/es6%E4%B8%ADobject-create%E5%92%8Cobject-assign/)
 - :book: [Object-Assign-Deep —— github](https://github.com/saikojosh/Object-Assign-Deep)
 
 **[:arrow_up: 返回目录](#目录)**
